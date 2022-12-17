@@ -1,0 +1,3 @@
+rodar 
+
+roda npm run dev e npx prisma studio
